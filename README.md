@@ -78,10 +78,9 @@
 ### 🗨️ Scenario Overview  
 
 #### Simulated User Activities:
-1. **Agents**: Perform deposits for 10 customers.  
-2. **Customers**:  
-   - Send money to 10 other customers.  
-   - Make payments to 2 merchants.  
+1. 5 Agents Perform **deposits** for 10 Customers.
+2. 5 Customers **send money** to another 10 Customers.
+3. 5 Customers make **payments** to 2 Merchants.
 
 ### 📂 Necessary Files  
 - `Resources/Extra/Agent Recharge from System.csv`  
